@@ -1,0 +1,14 @@
+----MET RECICLA----
+COMPRA
+Sucursal: Met Recicla Luque
+Dirección: Luque
+Teléfono: 99876
+Fecha: 03-01-2025 08:14:39
+Proveedor: cccc
+Encargado: Julio
+--------------------------------
+CANT DESC       PRECIO    SUBT
+--------------------------------
+2    Bronce       30000   60000
+--------------------------------
+TOTAL:                     60000

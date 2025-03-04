@@ -1,0 +1,129 @@
+Comando ejecutado: type "C:\wamp64\www\api_metrecicla\controllers/ticket_sin_id.txt" > "\\Desktop-01apfrc\pos-58"
+Resultado: 1
+Salida:
+Comando ejecutado: type "C:\wamp64\www\api_metrecicla\controllers/ticket_sin_id.txt" > "\\Desktop-01apfrc\pos-58"
+Resultado: 1
+Salida:
+
+PHP Usuario actual: SYSTEM
+PHP Ruta absoluta: C:\wamp64\www\api_metrecicla\controllers\ticket_sin_id.txtComando ejecutado: type "C:\wamp64\www\api_metrecicla\controllers/ticket_sin_id.txt" > "\\Desktop-01apfrc\pos-58"
+Resultado: 1
+Salida:
+
+PHP Usuario actual: SYSTEM
+PHP Ruta absoluta: C:\wamp64\www\api_metrecicla\controllers\ticket_sin_id.txtComando ejecutado: type "C:\wamp64\www\api_metrecicla\controllers/ticket_sin_id.txt" > "\\Desktop-01apfrc\pos-58"
+Resultado: 1
+Salida:
+
+PHP Usuario actual: SYSTEM
+PHP Ruta absoluta: C:\wamp64\www\api_metrecicla\controllers\ticket_sin_id.txtComando ejecutado: type "C:\wamp64\www\api_metrecicla\controllers/ticket_sin_id.txt" > "\\Desktop-01apfrc\pos-58"
+Resultado: 1
+Salida:
+
+PHP Usuario actual: SYSTEM
+PHP Ruta absoluta: C:\wamp64\www\api_metrecicla\controllers\ticket_sin_id.txtComando ejecutado: type "C:\wamp64\www\api_metrecicla\controllers/ticket_sin_id.txt" > "\\Desktop-01apfrc\pos-58"
+Resultado: 1
+Salida:
+
+PHP Usuario actual: SYSTEM
+PHP Ruta absoluta: C:\wamp64\www\api_metrecicla\controllers\ticket_sin_id.txtComando ejecutado: type "C:\wamp64\www\api_metrecicla\controllers/ticket_sin_id.txt" > "\\Desktop-01apfrc\pos-58"
+Resultado: 1
+Salida:
+
+PHP Usuario actual: SYSTEM
+PHP Ruta absoluta: C:\wamp64\www\api_metrecicla\controllers\ticket_sin_id.txtComando ejecutado: type "C:\wamp64\www\api_metrecicla\controllers/ticket_sin_id.txt" > "\\Desktop-01apfrc\pos-58"
+Resultado: 1
+Salida:
+
+PHP Usuario actual: SYSTEM
+PHP Ruta absoluta: C:\wamp64\www\api_metrecicla\controllers\ticket_sin_id.txtComando ejecutado: type "C:\wamp64\www\api_metrecicla\controllers/ticket_sin_id.txt" > "\\Desktop-01apfrc\pos-58"
+Resultado: 1
+Salida:
+
+PHP Usuario actual: SYSTEM
+PHP Ruta absoluta: C:\wamp64\www\api_metrecicla\controllers\ticket_sin_id.txtComando ejecutado: type "C:\wamp64\www\api_metrecicla\controllers/ticket_sin_id.txt" > "\\Desktop-01apfrc\pos-58"
+Resultado: 1
+Salida:
+
+PHP Usuario actual: SYSTEM
+PHP Ruta absoluta: C:\wamp64\www\api_metrecicla\controllers\ticket_sin_id.txtComando ejecutado: type "C:\wamp64\www\api_metrecicla\controllers/ticket_sin_id.txt" > "\\Desktop-01apfrc\pos-58"
+Resultado: 1
+Salida:
+
+PHP Usuario actual: SYSTEM
+PHP Ruta absoluta: C:\wamp64\www\api_metrecicla\controllers\ticket_sin_id.txtComando ejecutado: type "C:\wamp64\www\api_metrecicla\controllers/ticket_sin_id.txt" > "\\Desktop-01apfrc\pos-58"
+Resultado: 1
+Salida:
+
+PHP Usuario actual: SYSTEM
+PHP Ruta absoluta: C:\wamp64\www\api_metrecicla\controllers\ticket_sin_id.txtComando ejecutado: type "C:\wamp64\www\api_metrecicla\controllers/ticket_sin_id.txt" > "\\Desktop-01apfrc\pos-58"
+Resultado: 1
+Salida:
+
+PHP Usuario actual: SYSTEM
+PHP Ruta absoluta: C:\wamp64\www\api_metrecicla\controllers\ticket_sin_id.txtComando ejecutado: type "C:\wamp64\www\api_metrecicla\controllers/ticket_sin_id.txt" > "\\Desktop-01apfrc\pos-58"
+Resultado: 1
+Salida:
+
+PHP Usuario actual: SYSTEM
+PHP Ruta absoluta: C:\wamp64\www\api_metrecicla\controllers\ticket_sin_id.txtComando ejecutado: type "C:\wamp64\www\api_metrecicla\controllers/ticket_sin_id.txt" > "\\Desktop-01apfrc\pos-58"
+Resultado: 1
+Salida:
+
+PHP Usuario actual: SYSTEM
+PHP Ruta absoluta: C:\wamp64\www\api_metrecicla\controllers\ticket_sin_id.txtComando ejecutado: type "C:\wamp64\www\api_metrecicla\controllers/ticket_sin_id.txt" > "\\Desktop-01apfrc\pos-58"
+Resultado: 1
+Salida:
+
+PHP Usuario actual: SYSTEM
+PHP Ruta absoluta: C:\wamp64\www\api_metrecicla\controllers\ticket_sin_id.txtComando ejecutado: type "C:\wamp64\www\api_metrecicla\controllers/ticket_sin_id.txt" > "\\Desktop-01apfrc\pos-58"
+Resultado: 1
+Salida:
+
+PHP Usuario actual: SYSTEM
+PHP Ruta absoluta: C:\wamp64\www\api_metrecicla\controllers\ticket_sin_id.txtComando ejecutado: type "C:\wamp64\www\api_metrecicla\controllers/ticket_sin_id.txt" > "\\Desktop-01apfrc\pos-58"
+Resultado: 1
+Salida:
+
+PHP Usuario actual: SYSTEM
+PHP Ruta absoluta: C:\wamp64\www\api_metrecicla\controllers\ticket_sin_id.txtComando ejecutado: type "C:\wamp64\www\api_metrecicla\controllers/ticket_sin_id.txt" > "\\Desktop-01apfrc\pos-58"
+Resultado: 1
+Salida:
+
+PHP Usuario actual: SYSTEM
+PHP Ruta absoluta: C:\wamp64\www\api_metrecicla\controllers\ticket_sin_id.txtComando ejecutado: type "C:\wamp64\www\api_metrecicla\controllers/ticket_sin_id.txt" > "\\Desktop-01apfrc\pos-58"
+Resultado: 1
+Salida:
+
+PHP Usuario actual: SYSTEM
+PHP Ruta absoluta: C:\wamp64\www\api_metrecicla\controllers\ticket_sin_id.txtComando ejecutado: type "C:\wamp64\www\api_metrecicla\controllers/ticket_sin_id.txt" > "\\Desktop-01apfrc\pos-58"
+Resultado: 1
+Salida:
+
+PHP Usuario actual: SYSTEM
+PHP Ruta absoluta: C:\wamp64\www\api_metrecicla\controllers\ticket_sin_id.txtComando ejecutado: type "C:\wamp64\www\api_metrecicla\controllers/ticket_sin_id.txt" > "\\Desktop-01apfrc\pos-58"
+Resultado: 1
+Salida:
+
+PHP Usuario actual: SYSTEM
+PHP Ruta absoluta: C:\wamp64\www\api_metrecicla\controllers\ticket_sin_id.txtComando ejecutado: type "C:\wamp64\www\api_metrecicla\controllers/ticket_sin_id.txt" > "\\Desktop-01apfrc\pos-58"
+Resultado: 1
+Salida:
+
+PHP Usuario actual: SYSTEM
+PHP Ruta absoluta: C:\wamp64\www\api_metrecicla\controllers\ticket_sin_id.txtComando ejecutado: type "C:\wamp64\www\api_metrecicla\controllers/ticket_sin_id.txt" > "\\Desktop-01apfrc\pos-58"
+Resultado: 1
+Salida:
+
+PHP Usuario actual: SYSTEM
+PHP Ruta absoluta: C:\wamp64\www\api_metrecicla\controllers\ticket_sin_id.txtComando ejecutado: type "C:\wamp64\www\api_metrecicla\controllers/ticket_sin_id.txt" > "\\Desktop-01apfrc\pos-58"
+Resultado: 1
+Salida:
+
+PHP Usuario actual: SYSTEM
+PHP Ruta absoluta: C:\wamp64\www\api_metrecicla\controllers\ticket_sin_id.txtComando ejecutado: type "C:\wamp64\www\api_metrecicla\controllers/ticket_sin_id.txt" > "\\Desktop-01apfrc\pos-58"
+Resultado: 1
+Salida:
+
+PHP Usuario actual: SYSTEM
+PHP Ruta absoluta: C:\wamp64\www\api_metrecicla\controllers\ticket_sin_id.txt

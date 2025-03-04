@@ -1,0 +1,16 @@
+----MET RECICLA----
+COMPRA
+Sucursal: Met Recicla Luque
+Dirección: Luque
+Teléfono: 99876
+Fecha: 03-01-2025 10:05:27
+Proveedor: Sin Nombre
+Encargado: Julio
+--------------------------------
+CANT DESC       PRECIO    SUBT
+--------------------------------
+10   Bronce       30000  300000
+32   Cobre        55000 1760000
+33   Alum Duro     8000  264000
+--------------------------------
+TOTAL:                   2324000
