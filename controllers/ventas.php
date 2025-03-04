@@ -58,7 +58,7 @@ switch ($_SERVER['REQUEST_METHOD']) {
             $token = $_COOKIE['jwt'];
             try {
                 $userData = decode($token);
-                $resultado = $ventaModel->actualizar_venta($body);
+                $resultado = $ventaModel->actualizar_venta_total($body);
                 echo get_resultado($resultado);
             } catch (Exception $e) {
                 http_response_code(401);

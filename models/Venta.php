@@ -67,6 +67,19 @@ class VentaModel extends Conectar
         
     }
 
+    public function actualizar_venta_total($data)
+    {
+        $conectar = parent::Conexion();
+        parent::set_name();
+
+        $strQuery = "UPDATE ventas SET  total=? WHERE id_venta=?";
+        $resultado = $conectar->prepare($strQuery);
+        $resultado->bindValue(1, $data->total, PDO::PARAM_INT);
+        $resultado->bindValue(2, $data->id_venta, PDO::PARAM_INT);
+        return $resultado->execute();
+    }
+
+
     public function eliminar_venta($id)
     {
         $conectar = parent::Conexion();
