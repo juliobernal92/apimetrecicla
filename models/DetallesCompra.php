@@ -110,8 +110,8 @@ class DetallesCompraModel extends Conectar
                  SET cantidad = ?, subtotal = preciopagado * ? 
                  WHERE id_detalle_compra = ?";
         $resultado = $conectar->prepare($strQuery);
-        $resultado->bindValue(1, $nueva_cantidad, PDO::PARAM_INT);
-        $resultado->bindValue(2, $nueva_cantidad, PDO::PARAM_INT);
+        $resultado->bindValue(1, $nueva_cantidad, PDO::PARAM_STR);
+        $resultado->bindValue(2, $nueva_cantidad, PDO::PARAM_STR);
         $resultado->bindValue(3, $id_detalle_compra, PDO::PARAM_INT);
         return $resultado->execute();
     }
